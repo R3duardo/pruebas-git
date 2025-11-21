@@ -74,3 +74,5 @@ Objetivo: practicar los comandos esenciales de Git con ejemplos rápidos.
 3) Añade remoto (si usas GitHub), sube `main` y luego `feature/saludo`.
 
 Consejo: en PowerShell/Windows, usa rutas con `\` y evita caracteres especiales en mensajes sin comillas.
+
+Hecho por Reduardo
