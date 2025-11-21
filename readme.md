@@ -2,11 +2,6 @@
 
 Objetivo: practicar los comandos esenciales de Git con ejemplos rápidos.
 
-## Requisitos
-- Tener `git` instalado: `git --version`
-- Configurar tu identidad:
-  - `git config --global user.name "Tu Nombre"`
-  - `git config --global user.email "tu@email.com"`
 
 ## Inicialización
 - Crear repo: `git init`
